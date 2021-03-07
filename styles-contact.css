@@ -100,7 +100,7 @@ h1 {
 	font-weight: 100;
 	font-style: italic;
 	font-size: 1.4em;
-    margin: -15px auto 30px auto;
+    margin: -10px auto 25px auto;
     color: rgb(2, 2, 2);
 }
 
@@ -109,7 +109,7 @@ h2 {
 	font-family: fira-sans, sans serif;
 	font-weight: 300;
 	font-style: normal;
-    font-size: 0.9em;
+    font-size: 1em;
 	line-height: 1.4;
     color: rgb(253, 253, 253);
     padding: 0px 0px;
@@ -121,7 +121,7 @@ h3 {
    font-family: fira-sans, sans serif;
    font-weight: 300;
    font-style: normal;
-   font-size: 0.9em;
+   font-size: 1em;
    line-height: 1.4;
    color: rgb(2, 2, 2);
    padding: 0px 0px;
@@ -134,7 +134,7 @@ p {
 	font-family: fira-sans, sans serif;
 	font-weight: 100;
 	font-style: normal;
-	font-size: 0.7em;
+	font-size: 0.8em;
     line-height: 1.6;
     color: black;
 	margin: 0px auto 0px auto
